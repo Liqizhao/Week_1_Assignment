@@ -1,0 +1,24 @@
+{
+  "name": "week_1_assignment",
+  "version": "1.0.0",
+  "description": "This is a directory for week 1 assignment",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liqizhao/Week_1_Assignment.git"
+  },
+  "author": "Liqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liqizhao/Week_1_Assignment/issues"
+  },
+  "homepage": "https://github.com/Liqizhao/Week_1_Assignment#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
